@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Array-Visualizer/static/css/main.72440ddc.chunk.css",
+    "main.js": "/Array-Visualizer/static/js/main.6e3c320a.chunk.js",
+    "main.js.map": "/Array-Visualizer/static/js/main.6e3c320a.chunk.js.map",
+    "runtime-main.js": "/Array-Visualizer/static/js/runtime-main.e4a47164.js",
+    "runtime-main.js.map": "/Array-Visualizer/static/js/runtime-main.e4a47164.js.map",
+    "static/css/2.64a99b10.chunk.css": "/Array-Visualizer/static/css/2.64a99b10.chunk.css",
+    "static/js/2.7fcef96d.chunk.js": "/Array-Visualizer/static/js/2.7fcef96d.chunk.js",
+    "static/js/2.7fcef96d.chunk.js.map": "/Array-Visualizer/static/js/2.7fcef96d.chunk.js.map",
+    "index.html": "/Array-Visualizer/index.html",
+    "precache-manifest.abfb43e245dbc61b8675c5c056717a4c.js": "/Array-Visualizer/precache-manifest.abfb43e245dbc61b8675c5c056717a4c.js",
+    "service-worker.js": "/Array-Visualizer/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/Array-Visualizer/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.72440ddc.chunk.css.map": "/Array-Visualizer/static/css/main.72440ddc.chunk.css.map",
+    "static/js/2.7fcef96d.chunk.js.LICENSE": "/Array-Visualizer/static/js/2.7fcef96d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a47164.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.7fcef96d.chunk.js",
+    "static/css/main.72440ddc.chunk.css",
+    "static/js/main.6e3c320a.chunk.js"
+  ]
+}
