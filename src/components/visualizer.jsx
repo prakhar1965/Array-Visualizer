@@ -42,7 +42,7 @@ class Visualizer extends Component {
         selectionsort(this.state.array);
     }
     mergeSort() {
-       
+       mergesort(this.state.array);
         
       }
      
